@@ -1,0 +1,47 @@
+Top 10 Products by Sales:
+Product
+T - Shirts       578336.0
+Titak watch      531468.0
+Running Shoes    522144.0
+Jeans            508376.0
+Formal Shoes     496503.0
+Shirts           457072.0
+Fossil Watch     370788.0
+Towels           351348.0
+Sofa Covers      332424.0
+Bed Sheets       325151.0
+
+Top 5 Customers by Profit:
+Customer_Id
+10436    546.9
+97843    533.9
+16997    527.1
+11050    521.1
+51093    505.8
+
+Monthly Revenue:
+Order_Date    Sales
+   2018-01 379627.0
+   2018-02 332495.0
+   2018-03 435502.0
+   2018-04 597312.0
+   2018-05 824502.0
+   2018-06 642555.0
+   2018-07 810205.0
+   2018-08 664495.0
+   2018-09 738303.0
+   2018-10 743387.0
+
+Top 10 Customers with Above Average Spend:
+Customer_Id
+87989    994.0
+35324    949.0
+79016    935.0
+10436    929.0
+51093    927.0
+16997    925.0
+80884    904.0
+97843    903.0
+95831    894.0
+37805    890.0
+
